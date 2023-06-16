@@ -1,0 +1,25 @@
+.bg-light {
+  background: #ffffff !important;
+  color: rgb(102, 102, 102);
+}
+
+.img-logo{
+  height: 45px;
+  width: auto;
+}
+
+.cart-btn{
+  font-size: 36px;
+  font-weight: bolder;
+  color: rgb(102, 102, 102);
+}
+
+.cart-btn i span{
+  font-size: 12px;
+}
+
+.img-search{
+  width: 64px;
+  height: 64px;
+}
+

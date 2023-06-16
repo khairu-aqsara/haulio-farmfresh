@@ -1,0 +1,21 @@
+.product-item{
+  width: 200px;
+  height: 220px;
+  text-decoration: none;
+  color: darkslateblue;
+}
+
+.product-item h3{
+  font-weight: 400;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.img-container{
+  height: 200px;
+}
+
+.product-thumb{
+  height: 200px;
+  object-fit: cover;
+}

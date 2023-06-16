@@ -1,0 +1,19 @@
+.box-landing-desc h1{
+  font-weight: bolder;
+  font-size: 42px;
+}
+
+.box-landing-desc h2{
+  font-weight: normal;
+  font-size: 24px;
+}
+
+.slide-icon i{
+  font-weight: bolder;
+  font-size: 92px;
+}
+
+.slide-icon span{
+  font-weight: 600;
+  font-size: 18px;
+}

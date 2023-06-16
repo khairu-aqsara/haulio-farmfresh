@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:dbContextFolder" value="Context" />
+        <entry key="Common:dbContextName" value="FarmfreshDbContext" />
+        <entry key="Common:e25ea8f2-2a28-457b-8ccf-8bd7a8dac7c4:dbContext" value="Farmfresh.Context.FarmfreshDbContext" />
+        <entry key="Common:generateOnConfiguring" value="true" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migration" />
+        <entry key="Common:provider" value="Microsoft.EntityFrameworkCore.Sqlite" />
+        <entry key="Common:useAttributes" value="false" />
+        <entry key="Common:useDatabaseNames" value="false" />
+        <entry key="Common:useDefaultConnection" value="true" />
+        <entry key="Common:usePluralizer" value="true" />
+      </map>
+    </option>
+  </component>
+</project>

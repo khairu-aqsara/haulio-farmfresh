@@ -1,0 +1,17 @@
+.img-detail-box{
+  width: 600px;
+  height: 600px;
+}
+
+.img-detail{
+  width: 100%;
+  object-fit: cover;
+}
+
+.product-name{
+  font-weight: bolder;
+}
+
+.product-category, .product-price{
+  font-size: 18px;
+}

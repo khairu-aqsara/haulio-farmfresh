@@ -1,0 +1,7 @@
+<div class="list-group">
+  <ng-template [ngIf]="categories != null">
+    <a *ngFor="let cat of categories" class="list-group-item list-group-item-action" [routerLink]="['/categories', cat.id]">
+      {{ cat.name }}
+    </a>
+  </ng-template>
+</div>

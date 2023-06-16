@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col-lg-3">
+    <app-sidebar></app-sidebar>
+  </div>
+  <div class="col-lg-9">
+    <ng-template [ngIf]="!loading">
+      <h1 class="product-name m-0">{{ product?.name }}</h1>
+      <h3>
+        <span class="product-category">{{ product?.category?.name }}</span>
+      </h3>
+      <div class="img-detail-box">
+        <img src="{{ product?.photoUrl }}" alt="{{ product?.name }}" onerror="this.src='https://placehold.co/800x600?text=No Image'" class="img-detail">
+      </div>
+    </ng-template>
+  </div>
+</div>
